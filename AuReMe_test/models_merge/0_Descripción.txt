@@ -1,0 +1,8 @@
+Aedes_Aureme -> Ref: Drosophila melanogaster
+Aedes_Recon -> Ref: Homo sapiens (Recon3D)
+CHO_Aureme -> Ref: Mus musculus
+CHO_Recon -> Ref: Homo sapiens (modelo para CHO)
+Ectocarpus_Aureme -> Ref: Chlamydomonas reinhardtii
+Ecto_Saccharina_Aureme -> Ref: Saccharina Japonica (modelo para Ectocarpus)
+Mpyr_Aureme -> Ref: Saccharina Japonica
+Mpyr_Chlamydomonas -> Ref: Chlamydomonas reinhardtii (modelo para Mpyr)
