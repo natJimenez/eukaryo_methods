@@ -1,0 +1,969 @@
+{
+    "A_aegypti": [
+        {
+            "ID": "C00131",
+            "Name": "dATP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00458",
+            "Name": "dCTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00286",
+            "Name": "dGTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00459",
+            "Name": "dTTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00002",
+            "Name": "ATP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00063",
+            "Name": "CTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00044",
+            "Name": "GTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00075",
+            "Name": "UTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00092",
+            "Name": "Glucose 6-phosphate",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Monosaccharide phosphates"
+        },
+        {
+            "ID": "C00187",
+            "Name": "Cholesterol",
+            "Super class": "Lipids",
+            "Main class": "Sterols lipids",
+            "Sub class": "Cholesterols"
+        },
+        {
+            "ID": "C05980",
+            "Name": "Cardiolipin",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C01194",
+            "Name": "Phosphatidylinositol",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00157",
+            "Name": "Phosphatidylcholine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00350",
+            "Name": "Phosphatidylethanolamine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C02737",
+            "Name": "Phosphatidylserine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00041",
+            "Name": "Alanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00062",
+            "Name": "Arginine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00152",
+            "Name": "Asparagine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00049",
+            "Name": "Aspartic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00097",
+            "Name": "Cysteine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00303",
+            "Name": "Glutamine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00025",
+            "Name": "Glutamic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00037",
+            "Name": "Glycine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00001",
+            "Name": "Water",
+            "Super class": "Inorganic compounds",
+            "Main class": "Inorganic compounds",
+            "Sub class": "Inorganic compounds"
+        },
+        {
+            "ID": "C00768",
+            "Name": "Histidine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16434",
+            "Name": "Isoleucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00123",
+            "Name": "Leucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16440",
+            "Name": "Lysine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00073",
+            "Name": "Methionine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00079",
+            "Name": "Phenylalanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16435",
+            "Name": "Proline",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00065",
+            "Name": "Serine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00188",
+            "Name": "Threonine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00806",
+            "Name": "Tryptophan",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C01536",
+            "Name": "Tyrosine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16436",
+            "Name": "Valine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        }
+    ],
+    "CHO": [
+        {
+            "ID": "C00041",
+            "Name": "Alanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00062",
+            "Name": "Arginine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00152",
+            "Name": "Asparagine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00049",
+            "Name": "Aspartic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00002",
+            "Name": "ATP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00187",
+            "Name": "Cholesterol",
+            "Super class": "Lipids",
+            "Main class": "Sterols lipids",
+            "Sub class": "Cholesterols"
+        },
+        {
+            "ID": "C05980",
+            "Name": "Cardiolipin",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00063",
+            "Name": "CTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00097",
+            "Name": "Cysteine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00131",
+            "Name": "dATP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00458",
+            "Name": "dCTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00286",
+            "Name": "dGTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00459",
+            "Name": "dTTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Deoxyribonucleotides"
+        },
+        {
+            "ID": "C00303",
+            "Name": "Glutamine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00025",
+            "Name": "Glutamic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00037",
+            "Name": "Glycine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00182",
+            "Name": "Glycogen",
+            "Super class": "Carbohydrates",
+            "Main class": "Polysaccharide",
+            "Sub class": "Glucan"
+        },
+        {
+            "ID": "C00044",
+            "Name": "GTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C00001",
+            "Name": "Water",
+            "Super class": "Inorganic compounds",
+            "Main class": "Inorganic compounds",
+            "Sub class": "Inorganic compounds"
+        },
+        {
+            "ID": "C00768",
+            "Name": "Histidine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16434",
+            "Name": "Isoleucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00123",
+            "Name": "Leucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16440",
+            "Name": "Lysine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00073",
+            "Name": "Methionine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00416",
+            "Name": "Phosphatidate",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C01194",
+            "Name": "Phosphatidylinositol",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00157",
+            "Name": "Phosphatidylcholine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00350",
+            "Name": "Phosphatidylethanolamine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00344",
+            "Name": "Phosphatidylglycerol",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00079",
+            "Name": "Phenylalanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16435",
+            "Name": "Proline",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C02737",
+            "Name": "Phosphatidylserine",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Glycerophospholipids"
+        },
+        {
+            "ID": "C00065",
+            "Name": "Serine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00550",
+            "Name": "Sphingomyelin",
+            "Super class": "Lipids",
+            "Main class": "Phospholipids",
+            "Sub class": "Phosphosphingolipids"
+        },
+        {
+            "ID": "C00422",
+            "Name": "Triacylglycerol",
+            "Super class": "Lipids",
+            "Main class": "Glycerolipids",
+            "Sub class": "Triradylglycerols"
+        },
+        {
+            "ID": "C00188",
+            "Name": "Threonine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00806",
+            "Name": "Tryptophan",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C01536",
+            "Name": "Tyrosine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00075",
+            "Name": "UTP",
+            "Super class": "Nucleic acids",
+            "Main class": "Nucleotides",
+            "Sub class": "Ribonucleotides"
+        },
+        {
+            "ID": "C16436",
+            "Name": "Valine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C02530",
+            "Name": "Cholesterol ester",
+            "Super class": "Lipids",
+            "Main class": "Sterols lipids",
+            "Sub class": "Sterols"
+        }
+    ],
+    "E_siliculosus": [
+        {
+            "ID": "C00160",
+            "Name": "Glycolic acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Monocarboxilate"
+        },
+        {
+            "ID": "C00079",
+            "Name": "Phenylalanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00188",
+            "Name": "Threonine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00025",
+            "Name": "Glutamic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00037",
+            "Name": "Glycine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00041",
+            "Name": "Alanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00077",
+            "Name": "Ornithine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00116",
+            "Name": "Glycerol",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar alcohols"
+        },
+        {
+            "ID": "C00158",
+            "Name": "Citric acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C00221",
+            "Name": "beta-D-Glucose",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Aldohexose"
+        },
+        {
+            "ID": "C16434",
+            "Name": "Isoleucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16436",
+            "Name": "Valine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00049",
+            "Name": "Aspartic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16440",
+            "Name": "Lysine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00392",
+            "Name": "Mannitol",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar alcohols"
+        },
+        {
+            "ID": "C16435",
+            "Name": "Proline",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00042",
+            "Name": "Succinic acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C00062",
+            "Name": "Arginine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00073",
+            "Name": "Methionine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00152",
+            "Name": "Asparagine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00303",
+            "Name": "Glutamine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00451",
+            "Name": "D-threo-isocitric acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C00768",
+            "Name": "Histidine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00806",
+            "Name": "Tryptophan",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C01536",
+            "Name": "Tyrosine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16439",
+            "Name": "Leucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00334",
+            "Name": "4-Aminobutanoate",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00097",
+            "Name": "Cysteine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00258",
+            "Name": "Glycerate",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar acids"
+        },
+        {
+            "ID": "C00065",
+            "Name": "Serine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        }
+    ],
+    "M_pyrifera": [
+        {
+            "ID": "C16440",
+            "Name": "Lysine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00334",
+            "Name": "4-Aminobutanoate",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00062",
+            "Name": "Arginine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00073",
+            "Name": "Methionine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00152",
+            "Name": "Asparagine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00158",
+            "Name": "Citric acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C00097",
+            "Name": "Cysteine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00221",
+            "Name": "beta-D-Glucose",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Aldohexose"
+        },
+        {
+            "ID": "C00025",
+            "Name": "Glutamic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00037",
+            "Name": "Glycine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00116",
+            "Name": "Glycerol",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar alcohols"
+        },
+        {
+            "ID": "C00160",
+            "Name": "Glycolic acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Monocarboxilate"
+        },
+        {
+            "ID": "C00768",
+            "Name": "Histidine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16434",
+            "Name": "Isoleucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00041",
+            "Name": "Alanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00049",
+            "Name": "Aspartic acid",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00077",
+            "Name": "Ornithine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16439",
+            "Name": "Leucine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00392",
+            "Name": "Mannitol",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar alcohols"
+        },
+        {
+            "ID": "C00079",
+            "Name": "Phenylalanine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00065",
+            "Name": "Serine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00042",
+            "Name": "Succinic acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C00188",
+            "Name": "Threonine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00451",
+            "Name": "D-threo-isocitric acid",
+            "Super class": "Organic acids",
+            "Main class": "Carboxilic acids",
+            "Sub class": "Carboxylate"
+        },
+        {
+            "ID": "C16436",
+            "Name": "Valine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C16435",
+            "Name": "Proline",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00303",
+            "Name": "Glutamine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C00258",
+            "Name": "Glycerate",
+            "Super class": "Carbohydrates",
+            "Main class": "Monosaccharides",
+            "Sub class": "Sugar acids"
+        },
+        {
+            "ID": "C00806",
+            "Name": "Tryptophan",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        },
+        {
+            "ID": "C01536",
+            "Name": "Tyrosine",
+            "Super class": "Organic acids",
+            "Main class": "Amino acids and peptides",
+            "Sub class": "Amino acids"
+        }
+    ]
+}
