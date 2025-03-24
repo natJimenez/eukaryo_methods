@@ -1,0 +1,1 @@
+This folder contains summaries of metabolomics data for each organism, using database metabolite IDs. These summaries are used for determining the content of specialized metabolites for each model, in comparison to the expected organism-specific metabolites.
