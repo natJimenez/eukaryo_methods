@@ -15,12 +15,16 @@ pt_A_aegypti,2374,2299,96.84
 pt_C_griseus,2839,2758,97.15
 pt_E_siliculosus,2554,2497,97.77
 r_E_siliculosus,1766,1765,99.94
+ref_E_siliculosus,2072,2061,99.47
 au4_C_griseus,2484,2483,99.96
 au4_E_siliculosus,978,923,94.38
 au5_C_griseus,2476,2475,99.96
 cv_A_aegypti,594,593,99.83
 cv_C_griseus,629,628,99.84
 cv_E_siliculosus,815,814,99.88
+ref_A_aegypti,2484,2443,98.35
+ref_C_griseus,2306,2306,100.00
+au5_A_aegypti,1945,1943,99.90
 r_C_griseus,2085,2084,99.95
 r_A_aegypti,1721,1720,99.94
 me_A_aegypti,2065,2037,98.64
@@ -36,6 +40,3 @@ ms_A_aegypti,510,508,99.61
 ms_C_griseus,510,508,99.61
 ms_E_siliculosus,510,508,99.61
 au4_A_aegypti,2929,1847,63.06
-ref_A_aegypti,2484,2443,98.35
-ref_C_griseus,2306,2306,100.00
-ref_E_siliculosus,2072,2061,99.47
