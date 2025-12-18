@@ -1,0 +1,133 @@
+Original ID,Original name,Model,Final name,Final ID
+c,cytoplasm,ref_A_aegypti,cytosol,c
+e,extracellular space,ref_A_aegypti,extracellular space,e
+l,lysosome,ref_A_aegypti,lysosome,l
+m,mitochondrion,ref_A_aegypti,mitochondria,m
+r,endoplasmic reticulum,ref_A_aegypti,endoplasmic reticulum,r
+n,nucleus,ref_A_aegypti,nucleus,n
+x,peroxisome,ref_A_aegypti,peroxisome/glyoxysome,x
+g,Golgi apparatus,ref_A_aegypti,golgi apparatus,g
+i,mitochondrial intermembrane space,ref_A_aegypti,intermembrane space of mitochondria,im
+c,cytosol,au_A_aegypti,cytosol,c
+e,extracellular,au_A_aegypti,extracellular space,e
+m,,au_A_aegypti,mitochondria,m
+s,,au_A_aegypti,eyespot,s
+p,periplasm,au_A_aegypti,periplasm,p
+r,,au_A_aegypti,endoplasmic reticulum,r
+C_c,cytosol,cv_A_aegypti,cytosol,c
+C_p,periplasm,cv_A_aegypti,periplasm,p
+C_e,extracellular space,cv_A_aegypti,extracellular space,e
+C_extr,extracellular,me_A_aegypti,extracellular space,e
+C_cytop,cytoplasmic,me_A_aegypti,cytosol,c
+C_mito,mitochondria,me_A_aegypti,mitochondria,m
+C_nucl,nuclear,me_A_aegypti,nucleus,n
+C_pero,peroxisome,me_A_aegypti,peroxisome/glyoxysome,x
+C_vacu,vacuole,me_A_aegypti,vacuole,v
+c0,Cytosol_0,ms_A_aegypti,cytosol,c
+d0,Stroma_0,ms_A_aegypti,stroma,d
+g0,Golgi_0,ms_A_aegypti,golgi apparatus,g
+v0,Vacuole_0,ms_A_aegypti,vacuole,v
+w0,Cell_Wall_0,ms_A_aegypti,cell wall,w
+x0,Peroxisome_0,ms_A_aegypti,peroxisome/glyoxysome,x
+m0,Mitochondria_0,ms_A_aegypti,mitochondria,m
+n0,Nucleus_0,ms_A_aegypti,nucleus,n
+r0,Endoplasmic_Reticulum_0,ms_A_aegypti,endoplasmic reticulum,r
+e0,Extracellular_0,ms_A_aegypti,extracellular space,e
+j0,Mitochondria_IMMem_0,ms_A_aegypti,intermembrane space of mitochondria,im
+c,cytosol,pt_A_aegypti,cytosol,c
+e,extracellular,pt_A_aegypti,extracellular space,e
+s,System,rm_A_aegypti,cytosol,c
+s,System,rk_A_aegypti,cytosol,c
+s,System,rc_A_aegypti,cytosol,c
+cytosol,,rec_A_aegypti,cytosol,c
+extracellular,,rec_A_aegypti,extracellular space,e
+c,cytosol,ref_C_griseus,cytosol,c
+e,extracellular space,ref_C_griseus,extracellular space,e
+l,lysosome,ref_C_griseus,lysosome,l
+m,mitochondria,ref_C_griseus,mitochondria,m
+x,peroxisome/glyoxysome,ref_C_griseus,peroxisome/glyoxysome,x
+r,endoplasmic reticulum,ref_C_griseus,endoplasmic reticulum,r
+n,nucleus,ref_C_griseus,nucleus,n
+g,golgi apparatus,ref_C_griseus,golgi apparatus,g
+im,intermembrane space of mitochondria,ref_C_griseus,intermembrane space of mitochondria,im
+c,cytosol,au_C_griseus,cytosol,c
+g,,au_C_griseus,golgi apparatus,g
+e,extracellular,au_C_griseus,extracellular space,e
+x,,au_C_griseus,peroxisome/glyoxysome,x
+m,,au_C_griseus,mitochondria,m
+r,,au_C_griseus,endoplasmic reticulum,r
+n,,au_C_griseus,nucleus,n
+l,,au_C_griseus,lysosome,l
+i,,au_C_griseus,inner mitochondrial compartment,i
+C_c,cytosol,cv_C_griseus,cytosol,c
+C_p,periplasm,cv_C_griseus,periplasm,p
+C_e,extracellular space,cv_C_griseus,extracellular space,e
+C_extr,extracellular,me_C_griseus,extracellular space,e
+C_cytop,cytoplasmic,me_C_griseus,cytosol,c
+C_mito,mitochondria,me_C_griseus,mitochondria,m
+C_pero,peroxisome,me_C_griseus,peroxisome/glyoxysome,x
+C_nucl,nuclear,me_C_griseus,nucleus,n
+C_vacu,vacuole,me_C_griseus,vacuole,v
+C_chlo,chloroplast,me_C_griseus,chloroplast,h
+c0,Cytosol_0,ms_C_griseus,cytosol,c
+d0,Stroma_0,ms_C_griseus,stroma,d
+g0,Golgi_0,ms_C_griseus,golgi apparatus,g
+v0,Vacuole_0,ms_C_griseus,vacuole,v
+w0,Cell_Wall_0,ms_C_griseus,cell wall,w
+x0,Peroxisome_0,ms_C_griseus,peroxisome/glyoxysome,x
+m0,Mitochondria_0,ms_C_griseus,mitochondria,m
+n0,Nucleus_0,ms_C_griseus,nucleus,n
+r0,Endoplasmic_Reticulum_0,ms_C_griseus,endoplasmic reticulum,r
+e0,Extracellular_0,ms_C_griseus,extracellular space,e
+j0,Mitochondria_IMMem_0,ms_C_griseus,intermembrane space of mitochondria,im
+c,cytosol,pt_C_griseus,cytosol,c
+e,extracellular,pt_C_griseus,extracellular space,e
+s,System,rm_C_griseus,cytosol,c
+s,System,rk_C_griseus,cytosol,c
+s,System,rc_C_griseus,cytosol,c
+cytosol,,rec_C_griseus,cytosol,c
+extracellular,,rec_C_griseus,extracellular space,e
+c,cytosol,ref_E_siliculosus,cytosol,c
+e,extracellular,ref_E_siliculosus,extracellular space,e
+p,periplasm,ref_E_siliculosus,periplasm,p
+x,,ref_E_siliculosus,peroxisome/glyoxysome,x
+m,,ref_E_siliculosus,mitochondria,m
+v,,ref_E_siliculosus,vacuole,v
+c,cytosol,au_E_siliculosus,cytosol,c
+h,,au_E_siliculosus,chloroplast,h
+m,,au_E_siliculosus,mitochondria,m
+e,extracellular,au_E_siliculosus,extracellular space,e
+f,,au_E_siliculosus,flagellum,f
+u,,au_E_siliculosus,thylakoid,u
+x,,au_E_siliculosus,peroxisome/glyoxysome,x
+n,,au_E_siliculosus,nucleus,n
+s,,au_E_siliculosus,eyespot,s
+g,,au_E_siliculosus,golgi apparatus,g
+C_c,cytosol,cv_E_siliculosus,cytosol,c
+C_p,periplasm,cv_E_siliculosus,periplasm,p
+C_e,extracellular space,cv_E_siliculosus,extracellular space,e
+C_extr,extracellular,me_E_siliculosus,extracellular space,e
+C_cytop,cytoplasmic,me_E_siliculosus,cytosol,c
+C_mito,mitochondria,me_E_siliculosus,mitochondria,m
+C_chlo,chloroplast,me_E_siliculosus,chloroplast,h
+C_nucl,nuclear,me_E_siliculosus,nucleus,n
+C_vacu,vacuole,me_E_siliculosus,vacuole,v
+C_pero,peroxisome,me_E_siliculosus,peroxisome/glyoxysome,x
+c0,Cytosol_0,ms_E_siliculosus,cytosol,c
+d0,Stroma_0,ms_E_siliculosus,stroma,d
+g0,Golgi_0,ms_E_siliculosus,golgi apparatus,g
+v0,Vacuole_0,ms_E_siliculosus,vacuole,v
+w0,Cell_Wall_0,ms_E_siliculosus,cell wall,w
+x0,Peroxisome_0,ms_E_siliculosus,peroxisome/glyoxysome,x
+m0,Mitochondria_0,ms_E_siliculosus,mitochondria,m
+n0,Nucleus_0,ms_E_siliculosus,nucleus,n
+r0,Endoplasmic_Reticulum_0,ms_E_siliculosus,endoplasmic reticulum,r
+e0,Extracellular_0,ms_E_siliculosus,extracellular space,e
+j0,Mitochondria_IMMem_0,ms_E_siliculosus,intermembrane space of mitochondria,im
+c,cytosol,pt_E_siliculosus,cytosol,c
+e,extracellular,pt_E_siliculosus,extracellular space,e
+s,System,rm_E_siliculosus,cytosol,c
+s,System,rk_E_siliculosus,cytosol,c
+s,System,rc_E_siliculosus,cytosol,c
+cytosol,,rec_E_siliculosus,cytosol,c
+extracellular,,rec_E_siliculosus,extracellular space,e
