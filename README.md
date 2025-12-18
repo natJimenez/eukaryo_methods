@@ -39,8 +39,21 @@ Files
 ------
 
 main.ipynb:
-Main Python code.
+Main script for analyzing and comparing draft and reference models and generating manuscript Figures.
 
+mergem_mapping.ipynb:
+Script for mapping reaction and metabolite names to MetaNetX namespace using the library mergem.
 
+gene_mapping.ipynb:
+Script for mapping gene names to a common namespace.
 
+------
+Unused
+------
+
+gene_comparison.ipynb:
+Script for exploring genes and GPRs across models.
+
+GPR_comparisons.ipynb:
+Previous version of gene_mapping.ipynb.
 
