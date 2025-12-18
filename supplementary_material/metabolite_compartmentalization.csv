@@ -1,0 +1,31 @@
+Model,Method,Organism,cell wall,chloroplast,cytosol,endoplasmic reticulum,extracellular space,eyespot,flagellum,golgi apparatus,inner mitochondrial compartment,intermembrane space of mitochondria,lysosome,mitochondria,nucleus,periplasm,peroxisome/glyoxysome,stroma,thylakoid,vacuole
+au_A_aegypti,AuReMe,A. aegypti,,,2191,14,38,4,,,,,,26,,21,,,,
+au_C_griseus,AuReMe,C. griseus,,,4135,337,913,,,203,1,,199,506,80,,255,,,
+au_E_siliculosus,AuReMe,E. siliculosus,,410,3081,,54,20,18,19,,,,261,31,,57,,30,
+cv_A_aegypti,CarveMe,A. aegypti,,,587,,122,,,,,,,,,81,,,,
+cv_C_griseus,CarveMe,C. griseus,,,625,,141,,,,,,,,,84,,,,
+cv_E_siliculosus,CarveMe,E. siliculosus,,,806,,138,,,,,,,,,136,,,,
+me_A_aegypti,merlin,A. aegypti,,,2076,,699,,,,,,,757,346,,280,,,308
+me_C_griseus,merlin,C. griseus,,4,2451,,863,,,,,,,866,634,,411,,,355
+me_E_siliculosus,merlin,E. siliculosus,,629,2057,,467,,,,,,,614,321,,220,,,184
+pt_A_aegypti,Pathway Tools,A. aegypti,,,2931,,50,,,,,,,,,,,,,
+pt_C_griseus,Pathway Tools,C. griseus,,,3514,,47,,,,,,,,,,,,,
+pt_E_siliculosus,Pathway Tools,E. siliculosus,,,3125,,34,,,,,,,,,,,,,
+rec_A_aegypti,Reconstructor,A. aegypti,,,1422,,41,,,,,,,,,,,,,
+rec_C_griseus,Reconstructor,C. griseus,,,1557,,39,,,,,,,,,,,,,
+rec_E_siliculosus,Reconstructor,E. siliculosus,,,1675,,37,,,,,,,,,,,,,
+ms_A_aegypti,ModelSEED,A. aegypti,12,,332,62,30,,,13,,1,,184,54,,118,349,,24
+ms_C_griseus,ModelSEED,C. griseus,12,,332,62,30,,,13,,1,,184,54,,118,349,,24
+ms_E_siliculosus,ModelSEED,E. siliculosus,12,,332,62,30,,,13,,1,,184,54,,118,349,,24
+rc_A_aegypti,RAVEN-Combined,A. aegypti,,,3053,,,,,,,,,,,,,,,
+rc_C_griseus,RAVEN-Combined,C. griseus,,,3717,,,,,,,,,,,,,,,
+rc_E_siliculosus,RAVEN-Combined,E. siliculosus,,,3043,,,,,,,,,,,,,,,
+rk_A_aegypti,RAVEN-KEGG,A. aegypti,,,1897,,,,,,,,,,,,,,,
+rk_C_griseus,RAVEN-KEGG,C. griseus,,,2288,,,,,,,,,,,,,,,
+rk_E_siliculosus,RAVEN-KEGG,E. siliculosus,,,1928,,,,,,,,,,,,,,,
+rm_A_aegypti,RAVEN-MetaCyc,A. aegypti,,,1753,,,,,,,,,,,,,,,
+rm_C_griseus,RAVEN-MetaCyc,C. griseus,,,2127,,,,,,,,,,,,,,,
+rm_E_siliculosus,RAVEN-MetaCyc,E. siliculosus,,,1789,,,,,,,,,,,,,,,
+ref_A_aegypti,Reference,A. aegypti,,,1809,600,764,,,250,,1,234,674,131,,319,,,
+ref_C_griseus,Reference,C. griseus,,,1648,482,606,,,363,,1,260,620,158,,318,,,
+ref_E_siliculosus,Reference,E. siliculosus,,,2130,,43,,,,,,,1,,1,2,,,1
